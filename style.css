@@ -1,0 +1,32 @@
+/*Unidades fixas*/
+
+#cm { /* centímentos */
+    background-color: blue;
+    height: 2cm;
+    width: 2cm;
+}
+#mm { /* milímietros*/
+    background-color: red;
+    height: 2mm;
+    width: 2mm;
+}
+#in { /* inches */
+    background-color: blue;
+    height: 2in;
+    width: 2in;
+}
+#px { /* pixels */
+    background-color: red;
+    height: 20px;
+    width: 20px;
+}
+#pt { /* pontos */
+    background-color: blue;
+    height: 20pt;
+    width: 20pt;
+}
+#pc { /* paica */
+    background-color: red;
+    height: 20pc;
+    width: 20pc;
+}
